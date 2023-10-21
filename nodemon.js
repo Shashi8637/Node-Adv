@@ -1,0 +1,1 @@
+// npm i nodemon is using basically we dont use run to print in terminal its automattically use
